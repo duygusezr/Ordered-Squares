@@ -1,0 +1,16 @@
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\bin\Debug\net8.0-windows\düğme oyunu.exe
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\bin\Debug\net8.0-windows\düğme oyunu.deps.json
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\bin\Debug\net8.0-windows\düğme oyunu.runtimeconfig.json
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\bin\Debug\net8.0-windows\düğme oyunu.dll
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\bin\Debug\net8.0-windows\düğme oyunu.pdb
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\düğme_oyunu.Form1.resources
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\düğme oyunu.csproj.GenerateResource.cache
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\düğme oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\düğme oyunu.AssemblyInfoInputs.cache
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\düğme oyunu.AssemblyInfo.cs
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\düğme oyunu.csproj.CoreCompileInputs.cache
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\düğme oyunu.dll
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\refint\düğme oyunu.dll
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\düğme oyunu.pdb
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\düğme oyunu.genruntimeconfig.cache
+C:\Users\duygu\source\repos\düğme oyunu\düğme oyunu\obj\Debug\net8.0-windows\ref\düğme oyunu.dll
